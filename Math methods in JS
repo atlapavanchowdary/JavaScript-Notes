@@ -1,7 +1,7 @@
 #Some of the math properties(constants) are:
 
- #Math.E        // returns Euler's number
- #Math.PI       // returns PI
+ Math.E        // returns Euler's number
+ Math.PI       // returns PI
  #Math.SQRT2    // returns the square root of 2
  #Math.SQRT1_2  // returns the square root of 1/2
  #Math.LN2      // returns the natural logarithm of 2
